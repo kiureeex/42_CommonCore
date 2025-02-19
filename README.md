@@ -1,5 +1,7 @@
 <div align="center">
 <p align="center">
+  # 📚 Here You Will Find the Grades for the Projects Completed as a 42 Porto Student 🎓
+
   <hr style="border: none; border-top: 1px dashed #000;">
   <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" alt="Gif">
 </p>
