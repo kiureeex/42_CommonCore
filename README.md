@@ -12,6 +12,8 @@
 
 
 
+
+<div align="center">
   
 **Grade Table - Common Core**
 
