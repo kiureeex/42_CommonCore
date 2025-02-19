@@ -17,9 +17,9 @@
 
 | Project   | Grade   | Status        |
 |---------------------|--------|---------------|
-| [Libft](https://github.com/kiureeex/libft) | ❔   | ⚠️ In Progress   |
-| [ft_printf] |   ❔    | ❌ Not Started|
-| [get_next_line] |   ❔     | ❌ Not Started|
-| [Born2beroot]     |   ❔    | ❌ Not Started   |
+| [Libft](https://github.com/kiureeex/libft) | ❔ | ⚠️ In Progress   |
+| [ft_printf] |   ❔  | ❌ Not Started|
+| [get_next_line] |   ❔   | ❌ Not Started|
+| [Born2beroot]     |   ❔  | ❌ Not Started   |
 
 </div>
