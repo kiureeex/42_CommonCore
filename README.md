@@ -5,11 +5,7 @@
 </p>
 </div>
 
-## **Loading... Please Wait** ⏳✨
-
-
-
-
+<div align="center">
 **Grade Table - Common Core**
 
 | Project   | Grade   | Status        |
@@ -18,3 +14,4 @@
 | [ft_printf] | 0%    | ❌ Not Started|
 | [get_next_line] | 0%     | ❌ Not Started|
 | [Born2beroot]     | 0%    | ❌ Not Started   |
+</div>
