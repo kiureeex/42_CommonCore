@@ -4,7 +4,7 @@
   # 📚 Here You Will Find the Grades for the Projects Completed as a 42 Porto Student 🎓
 
   <hr style="border: none; border-top: 1px dashed #000;">
-  <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" alt="Gif">
+  <img src="https://media3.giphy.com/media/pZMceal7Lo0sXkLOTf/giphy.gif?cid=6c09b9527c325y7q3c3cfnhlhiyymq6062ctjy0v20yadzk0&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Gif">
 </p>
 </div>
 
