@@ -6,12 +6,14 @@
 </div>
 
 <div align="center">
+  
 **Grade Table - Common Core**
 
 | Project   | Grade   | Status        |
 |---------------------|--------|---------------|
-| [Libft](https://github.com/kiureeex/libft) | -   | ⚠️ In Progress   |
-| [ft_printf] | 0%    | ❌ Not Started|
-| [get_next_line] | 0%     | ❌ Not Started|
-| [Born2beroot]     | 0%    | ❌ Not Started   |
+| [Libft](https://github.com/kiureeex/libft) | 0/125⭐   | ⚠️ In Progress   |
+| [ft_printf] | 0/125⭐    | ❌ Not Started|
+| [get_next_line] | 0/100⭐     | ❌ Not Started|
+| [Born2beroot]     | 0/100⭐    | ❌ Not Started   |
+
 </div>
