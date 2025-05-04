@@ -18,7 +18,7 @@
 | Project   | Grade   | Status        |
 |---------------------|--------|---------------|
 | [Libft](https://github.com/kiureeex/libft) | 125 ⭐ | ✅ Done   |
-| [ft_printf] |   ❔⭐  | ❌ Not Started|
+| [ft_printf](https://github.com/kiureeex/printf_42) |   ❔⭐  | ✅ Done |
 | [get_next_line] |   ❔⭐   | ❌ Not Started|
 | [Born2beroot]     |   ❔⭐  | ❌ Not Started   |
 
